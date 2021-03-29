@@ -1,3 +1,3 @@
 # hello-world
 
-My first GitHub repository :D
+Estou seguindo o tutorial do proprio GitHub. Aqui estou editando um branch do main
